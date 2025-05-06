@@ -1,4 +1,4 @@
-# Technical Screening Project
+# A Simple Complete CRUD API
 
 # Dog API 🐶
 
